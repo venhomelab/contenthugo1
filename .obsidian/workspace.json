@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "a05834b37c36d44d",
+    "type": "split",
+    "children": [
+      {
+        "id": "058116e823928101",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95e33539c7c02411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "third-post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16e30761e551fc7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "first-post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a11809113517f2c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "just-new-post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1d3733f4c9731b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "just-new-post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5649f70e07cbdda0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todays-post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9583125e46475bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "first-post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af6052a09cec64b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fb195e09ef6156c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a02c7eb55744a18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c48af3f8c5c649c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d0132e85e27b181",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "right": {
+    "id": "fccfce4c119ac784",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d45f10bcafb2fdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0faae93a01ac25f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "first-post.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "363ad706e33d8f4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "first-post.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad62297598ccf242",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9e46eb0b6051fbf3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "first-post.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9583125e46475bb0",
+  "lastOpenFiles": [
+    "fifth-post.md",
+    "just-new-post.md",
+    "march-five-post.md",
+    "first-post.md",
+    "todays-post.md",
+    "twelveth-post.md",
+    "README.md",
+    "this-is-another-post.md",
+    "from-this-sample.md",
+    "eigth-post.md",
+    "fourth-post.md",
+    "post-templater.md",
+    "seventh-post.md",
+    "second-post.md",
+    "third-post.md",
+    "hugopostsv1/seventh-post.md",
+    "hugopostsv1/second-post.md",
+    "hugopostsv1/sample.md",
+    "2023-03-03.md",
+    "hugopostsv1/post-templater.md",
+    "Untitled.canvas",
+    "NewSubFolder",
+    "hugopostsv1/Untitled.md",
+    "templater/create.md",
+    "templater/Hugo Front Matter.md",
+    "NewNote.md",
+    "templater/NewSubFolder",
+    "templater/test.sh",
+    "test.sh",
+    "2023-03-02.md",
+    "hugopostsv1/twelveth-post.md",
+    "Untitled",
+    "templater"
+  ]
+}
